@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Mzke.Raven.Util</AssemblyName>
+    <RootNamespace>Mzke.Raven.Util</RootNamespace>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mzke/Raven.Util.git</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
